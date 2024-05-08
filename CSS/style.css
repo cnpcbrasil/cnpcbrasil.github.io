@@ -1,0 +1,109 @@
+.nav-link {
+  color: white;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-header {
+
+  color: #cc0001;
+  font-size: larger;
+  font-weight: bold;
+  background-color: white;
+  
+}
+
+.list-group-item {
+
+  border-color: white;
+}
+
+#navbarNavAltMarkup a:hover {
+  background-color: rgb(230, 164, 164);
+
+}
+
+#navbarNavAltMarkup a:focus {
+
+  color: white;
+
+}
+
+
+hr {
+  margin: 50px auto 5px auto;
+  top: 20px;
+  border: none;
+  height: 5px;
+  width: 95%;
+  background: #cc0001;
+
+}
+
+p {
+
+  text-align: justify;
+}
+
+.carousel img {
+
+  width: 100%;
+  margin: auto;
+  height: auto;
+
+}
+
+#portuguese, #english {
+
+  font-size: smaller;
+
+}
+
+@media only screen and (min-width: 992px) {
+  #main_card, #container {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  #main_card, #container {
+    width: 90%;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  #logo, #bar {
+    margin-left: 25%  ;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  #logo, #bar {
+    margin-left: 5%  ;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  #top_menu {
+    margin-right: 25%  ;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  #top_menu {
+    margin-right: 5%  ;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
